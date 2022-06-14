@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2022-06-14T02:31:21.060-03:00
-  initializedAtString: 2022-06-14T01:25:38.110-03:00
+  lastUpdatedAtString: 2022-06-14T15:52:48.095-03:00
+  initializedAtString: 2022-06-14T15:52:48.095-03:00
   entries:
   - path: .vs\Pinball\v17\.suo
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\.vs\Pinball\v17\.suo
@@ -40,21 +40,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\Scenes\Pinball.unity
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\Scenes\Pinball.unity
-    projectPath: Assets\Scenes\Pinball.unity
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Assets\Scripts\acionadorScript.cs
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\Scripts\acionadorScript.cs
     projectPath: Assets\Scripts\acionadorScript.cs
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets\Scripts\Bola.cs
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\Scripts\Bola.cs
+    projectPath: Assets\Scripts\Bola.cs
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Assets\Scripts\acionadorScript.cs.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\Scripts\acionadorScript.cs.meta
-    projectPath: Assets\Scripts\acionadorScript.cs.meta
+  - path: Assets\Scripts\Bola.cs.meta
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\Scripts\Bola.cs.meta
+    projectPath: Assets\Scripts\Bola.cs.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -62,539 +62,8 @@ MonoBehaviour:
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\Scripts\pontuacaoController.cs
     projectPath: Assets\Scripts\pontuacaoController.cs
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\pontuacaoController.cs.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\Scripts\pontuacaoController.cs.meta
-    projectPath: Assets\Scripts\pontuacaoController.cs.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\Scripts\RemoController.cs
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\Scripts\RemoController.cs
-    projectPath: Assets\Scripts\RemoController.cs
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Assets\TextMesh Pro.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro.meta
-    projectPath: Assets\TextMesh Pro.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Documentation.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Documentation.meta
-    projectPath: Assets\TextMesh Pro\Documentation.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Documentation\TextMesh Pro User Guide 2016.pdf
-    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
-    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Fonts.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Fonts.meta
-    projectPath: Assets\TextMesh Pro\Fonts.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Fonts\LiberationSans - OFL.txt
-    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Fonts\LiberationSans - OFL.txt.meta
-    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Fonts\LiberationSans.ttf
-    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Fonts\LiberationSans.ttf.meta
-    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources.meta
-    projectPath: Assets\TextMesh Pro\Resources.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Fonts & Materials.meta
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
-      Shadow.mat
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Drop Shadow.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop
-      Shadow.mat.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat.meta
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Drop Shadow.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Fallback.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Outline.mat
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
-      - Outline.mat.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
-    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\LineBreaking Following Characters.txt
-    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\LineBreaking Following Characters.txt.meta
-    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\LineBreaking Leading Characters.txt
-    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\LineBreaking Leading Characters.txt.meta
-    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Sprite Assets.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Sprite Assets.meta
-    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Sprite Assets\EmojiOne.asset
-    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Sprite Assets\EmojiOne.asset.meta
-    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Style Sheets.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Style Sheets.meta
-    projectPath: Assets\TextMesh Pro\Resources\Style Sheets.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Style Sheets\Default Style Sheet.asset
-    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
-    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\TMP Settings.asset
-    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Resources\TMP Settings.asset.meta
-    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders.meta
-    projectPath: Assets\TextMesh Pro\Shaders.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_Bitmap.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_Bitmap.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_Bitmap-Mobile.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF Overlay.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF Overlay.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF SSD.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF SSD.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Mobile Masking.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Mobile Overlay.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Mobile SSD.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Mobile.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Mobile.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Surface.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Surface.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Surface-Mobile.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_Sprite.shader
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMP_Sprite.shader.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMPro.cginc
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMPro.cginc
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMPro.cginc.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMPro_Mobile.cginc
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMPro_Mobile.cginc.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMPro_Properties.cginc
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMPro_Properties.cginc.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMPro_Surface.cginc
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Shaders\TMPro_Surface.cginc.meta
-    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Sprites.meta
-    projectPath: Assets\TextMesh Pro\Sprites.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Sprites\EmojiOne Attribution.txt
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Sprites\EmojiOne Attribution.txt.meta
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Sprites\EmojiOne.json
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Sprites\EmojiOne.json.meta
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Sprites\EmojiOne.png
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Assets\TextMesh
-      Pro\Sprites\EmojiOne.png.meta
-    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\ArtifactDB
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ArtifactDB
     projectPath: Library\ArtifactDB
@@ -605,191 +74,35 @@ MonoBehaviour:
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\01\016827f9751f586564907af856710afb
     projectPath: Library\Artifacts\01\016827f9751f586564907af856710afb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\02\0256681953b248b8ed67af59ee2071cd
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\02\0256681953b248b8ed67af59ee2071cd
-    projectPath: Library\Artifacts\02\0256681953b248b8ed67af59ee2071cd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\0a\0a4607b34c10cb31001b24fdfb4af4b2
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\0a\0a4607b34c10cb31001b24fdfb4af4b2
-    projectPath: Library\Artifacts\0a\0a4607b34c10cb31001b24fdfb4af4b2
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\10\101d8d548e806606da0265439f987189
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\10\101d8d548e806606da0265439f987189
-    projectPath: Library\Artifacts\10\101d8d548e806606da0265439f987189
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\11\11602644e3454823a6fb4a001cbab625
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\11\11602644e3454823a6fb4a001cbab625
-    projectPath: Library\Artifacts\11\11602644e3454823a6fb4a001cbab625
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\19\19bba60e98728ed4bc30adbc9d75d033
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\19\19bba60e98728ed4bc30adbc9d75d033
-    projectPath: Library\Artifacts\19\19bba60e98728ed4bc30adbc9d75d033
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1a\1a258ddc71c7c10110521be4aaf0154c
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\1a\1a258ddc71c7c10110521be4aaf0154c
-    projectPath: Library\Artifacts\1a\1a258ddc71c7c10110521be4aaf0154c
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1e\1ec60497c581383f8cc90a99f7839407
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\1e\1ec60497c581383f8cc90a99f7839407
-    projectPath: Library\Artifacts\1e\1ec60497c581383f8cc90a99f7839407
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\1e\1ed31fc3f522fae67435d427feced504
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\1e\1ed31fc3f522fae67435d427feced504
-    projectPath: Library\Artifacts\1e\1ed31fc3f522fae67435d427feced504
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
-    projectPath: Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\20\2079b858de936e182ec1a9c9cff98140
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\20\2079b858de936e182ec1a9c9cff98140
-    projectPath: Library\Artifacts\20\2079b858de936e182ec1a9c9cff98140
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\24\241be9e8723ac7fd14a7ed9fea7342d8
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\24\241be9e8723ac7fd14a7ed9fea7342d8
-    projectPath: Library\Artifacts\24\241be9e8723ac7fd14a7ed9fea7342d8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\24\243a63596c21912b0869942be92aecca
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\24\243a63596c21912b0869942be92aecca
-    projectPath: Library\Artifacts\24\243a63596c21912b0869942be92aecca
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\27\2764420a9419f75382ca66209a284828
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\27\2764420a9419f75382ca66209a284828
-    projectPath: Library\Artifacts\27\2764420a9419f75382ca66209a284828
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\2a\2abd4762f205ff34768c9e66693352d1
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\2a\2abd4762f205ff34768c9e66693352d1
-    projectPath: Library\Artifacts\2a\2abd4762f205ff34768c9e66693352d1
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\Artifacts\30\30d689d243740917fe2799b60335afdb
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\30\30d689d243740917fe2799b60335afdb
     projectPath: Library\Artifacts\30\30d689d243740917fe2799b60335afdb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\32\32c5bc7932732dbcbad1b8a9feb1cf4d
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\32\32c5bc7932732dbcbad1b8a9feb1cf4d
-    projectPath: Library\Artifacts\32\32c5bc7932732dbcbad1b8a9feb1cf4d
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\35\3500b5b0fe7cdbc51dc207d7127fc65f
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\35\3500b5b0fe7cdbc51dc207d7127fc65f
-    projectPath: Library\Artifacts\35\3500b5b0fe7cdbc51dc207d7127fc65f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\36\36acabaa7b953c4c4ea1965426a1d218
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\36\36acabaa7b953c4c4ea1965426a1d218
-    projectPath: Library\Artifacts\36\36acabaa7b953c4c4ea1965426a1d218
+  - path: Library\Artifacts\3b\3bc11a0d6621490fe88e829d58cfd52f
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\3b\3bc11a0d6621490fe88e829d58cfd52f
+    projectPath: Library\Artifacts\3b\3bc11a0d6621490fe88e829d58cfd52f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\59\598f92b04f60b1df4005ff384aaf9d88
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\59\598f92b04f60b1df4005ff384aaf9d88
-    projectPath: Library\Artifacts\59\598f92b04f60b1df4005ff384aaf9d88
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
-    projectPath: Library\Artifacts\5b\5b26994a6d5cdd9a8ea77c9495a6621b
+  - path: Library\Artifacts\49\499fb7a2220ac47f5de064c9817ab207
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\49\499fb7a2220ac47f5de064c9817ab207
+    projectPath: Library\Artifacts\49\499fb7a2220ac47f5de064c9817ab207
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\5d\5d1609b18bfba2b3911d7f7b1c9845f1
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\5d\5d1609b18bfba2b3911d7f7b1c9845f1
-    projectPath: Library\Artifacts\5d\5d1609b18bfba2b3911d7f7b1c9845f1
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
-    projectPath: Library\Artifacts\5d\5daaf29a33664aa98461368c4c3220a3
+  - path: Library\Artifacts\4b\4bfa42d3053bbd229a4a6409a7f49300
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\4b\4bfa42d3053bbd229a4a6409a7f49300
+    projectPath: Library\Artifacts\4b\4bfa42d3053bbd229a4a6409a7f49300
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\63\63d8f729f285c0bb34de94e46e451493
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\63\63d8f729f285c0bb34de94e46e451493
-    projectPath: Library\Artifacts\63\63d8f729f285c0bb34de94e46e451493
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\64\640136691f2eddcf9c98409745d0ff2a
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\64\640136691f2eddcf9c98409745d0ff2a
-    projectPath: Library\Artifacts\64\640136691f2eddcf9c98409745d0ff2a
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\67\67955e5dd06e5e409669f07c8e5c2f29
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\67\67955e5dd06e5e409669f07c8e5c2f29
-    projectPath: Library\Artifacts\67\67955e5dd06e5e409669f07c8e5c2f29
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\6f\6f56f85f04b89892d3bd34dd2afdcf78
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\6f\6f56f85f04b89892d3bd34dd2afdcf78
-    projectPath: Library\Artifacts\6f\6f56f85f04b89892d3bd34dd2afdcf78
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\74\74d8906e0687ae70e4483dfa84a9d3fc
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\74\74d8906e0687ae70e4483dfa84a9d3fc
-    projectPath: Library\Artifacts\74\74d8906e0687ae70e4483dfa84a9d3fc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\76\76f1503cb053ee35ab461ec9fda0ac85
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\76\76f1503cb053ee35ab461ec9fda0ac85
-    projectPath: Library\Artifacts\76\76f1503cb053ee35ab461ec9fda0ac85
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\84\84e4fafbae554dd3fa238001b7f1267f
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\84\84e4fafbae554dd3fa238001b7f1267f
-    projectPath: Library\Artifacts\84\84e4fafbae554dd3fa238001b7f1267f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\8a\8a41ae97645c6e2cfe8becec71e5748b
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\8a\8a41ae97645c6e2cfe8becec71e5748b
-    projectPath: Library\Artifacts\8a\8a41ae97645c6e2cfe8becec71e5748b
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\94\94a3693bd913b103cd7ff8ef8ad0cfc8
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\94\94a3693bd913b103cd7ff8ef8ad0cfc8
-    projectPath: Library\Artifacts\94\94a3693bd913b103cd7ff8ef8ad0cfc8
+  - path: Library\Artifacts\55\5575cf1babfecc00d662e5dd88c03bef
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\55\5575cf1babfecc00d662e5dd88c03bef
+    projectPath: Library\Artifacts\55\5575cf1babfecc00d662e5dd88c03bef
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -797,59 +110,17 @@ MonoBehaviour:
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\a2\a2f8bee483fa4e8feb7657a600945841
     projectPath: Library\Artifacts\a2\a2f8bee483fa4e8feb7657a600945841
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ad\add5065a4ad8583282f7b1e4374418b2
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\ad\add5065a4ad8583282f7b1e4374418b2
-    projectPath: Library\Artifacts\ad\add5065a4ad8583282f7b1e4374418b2
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\b2\b21d6640b35e4ffd0935b935240f2f73
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\b2\b21d6640b35e4ffd0935b935240f2f73
-    projectPath: Library\Artifacts\b2\b21d6640b35e4ffd0935b935240f2f73
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
-  - path: Library\Artifacts\b3\b33a43dd5273c98325dfddcfe1f4a0ce
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\b3\b33a43dd5273c98325dfddcfe1f4a0ce
-    projectPath: Library\Artifacts\b3\b33a43dd5273c98325dfddcfe1f4a0ce
+  - path: Library\Artifacts\ac\ac1a54cdf16e1f4f4acd865d0eb7ebf7
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\ac\ac1a54cdf16e1f4f4acd865d0eb7ebf7
+    projectPath: Library\Artifacts\ac\ac1a54cdf16e1f4f4acd865d0eb7ebf7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\Artifacts\b4\b4c9c647e32ad18090a0d209f9d7a09f
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\b4\b4c9c647e32ad18090a0d209f9d7a09f
-    projectPath: Library\Artifacts\b4\b4c9c647e32ad18090a0d209f9d7a09f
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\bd\bdb8f39065eabff9a70e1579214b6d2e
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\bd\bdb8f39065eabff9a70e1579214b6d2e
-    projectPath: Library\Artifacts\bd\bdb8f39065eabff9a70e1579214b6d2e
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\be\bedf80c413c6e15655288f4514ad74f8
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\be\bedf80c413c6e15655288f4514ad74f8
-    projectPath: Library\Artifacts\be\bedf80c413c6e15655288f4514ad74f8
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\c0\c06c7ef02ee4db913e3c3458c886ae6a
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\c0\c06c7ef02ee4db913e3c3458c886ae6a
-    projectPath: Library\Artifacts\c0\c06c7ef02ee4db913e3c3458c886ae6a
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\c4\c4f09a98138bc7f12f2d68514fb00c50
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\c4\c4f09a98138bc7f12f2d68514fb00c50
-    projectPath: Library\Artifacts\c4\c4f09a98138bc7f12f2d68514fb00c50
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d4\d4a71b1444bd2c3cf186ed10a7cbda59
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\d4\d4a71b1444bd2c3cf186ed10a7cbda59
-    projectPath: Library\Artifacts\d4\d4a71b1444bd2c3cf186ed10a7cbda59
+  - path: Library\Artifacts\cc\cc7976abc50b57b175f80ff664b87bb3
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\cc\cc7976abc50b57b175f80ff664b87bb3
+    projectPath: Library\Artifacts\cc\cc7976abc50b57b175f80ff664b87bb3
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -857,101 +128,17 @@ MonoBehaviour:
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\d5\d527d280a413b7735de837696714d134
     projectPath: Library\Artifacts\d5\d527d280a413b7735de837696714d134
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d5\d53340514d5c6a21711e45df4eefe7a9
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\d5\d53340514d5c6a21711e45df4eefe7a9
-    projectPath: Library\Artifacts\d5\d53340514d5c6a21711e45df4eefe7a9
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\d6\d68c46ac96adf7e4ce7cc1d676b159ac
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\d6\d68c46ac96adf7e4ce7cc1d676b159ac
-    projectPath: Library\Artifacts\d6\d68c46ac96adf7e4ce7cc1d676b159ac
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\dc\dcc8148c4eec5c82c63a800470a77250
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\dc\dcc8148c4eec5c82c63a800470a77250
-    projectPath: Library\Artifacts\dc\dcc8148c4eec5c82c63a800470a77250
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Library\Artifacts\df\dff434ad7a6c87a9dd2d1cdcc1b50491
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\df\dff434ad7a6c87a9dd2d1cdcc1b50491
     projectPath: Library\Artifacts\df\dff434ad7a6c87a9dd2d1cdcc1b50491
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\e0\e0e5b0c4dba44dd7b9f0174a2fcd00a8
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\e0\e0e5b0c4dba44dd7b9f0174a2fcd00a8
-    projectPath: Library\Artifacts\e0\e0e5b0c4dba44dd7b9f0174a2fcd00a8
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\e8\e8d5c1255c0a4d320e5901d06988012f
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\e8\e8d5c1255c0a4d320e5901d06988012f
-    projectPath: Library\Artifacts\e8\e8d5c1255c0a4d320e5901d06988012f
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\eb\eb68dc70665cac92ba5045b6919145cc
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\eb\eb68dc70665cac92ba5045b6919145cc
-    projectPath: Library\Artifacts\eb\eb68dc70665cac92ba5045b6919145cc
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\eb\ebd8c932c820315eec97355dcd7a810d
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\eb\ebd8c932c820315eec97355dcd7a810d
-    projectPath: Library\Artifacts\eb\ebd8c932c820315eec97355dcd7a810d
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ed\ed8c8f0a70d834d9eae95e42d6070898
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\ed\ed8c8f0a70d834d9eae95e42d6070898
-    projectPath: Library\Artifacts\ed\ed8c8f0a70d834d9eae95e42d6070898
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\ef\ef027cab3b0945d03c2fabcad5be20cd
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\ef\ef027cab3b0945d03c2fabcad5be20cd
-    projectPath: Library\Artifacts\ef\ef027cab3b0945d03c2fabcad5be20cd
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ef\ef55ee5853f21f62a550389d2f7729ff
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\ef\ef55ee5853f21f62a550389d2f7729ff
-    projectPath: Library\Artifacts\ef\ef55ee5853f21f62a550389d2f7729ff
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\ef\ef80f21032e3d4c70119f956344a9f47
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\ef\ef80f21032e3d4c70119f956344a9f47
-    projectPath: Library\Artifacts\ef\ef80f21032e3d4c70119f956344a9f47
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 5
   - path: Library\Artifacts\f2\f257fc9189c1efebfd2cfcc3931c8c1e
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\f2\f257fc9189c1efebfd2cfcc3931c8c1e
     projectPath: Library\Artifacts\f2\f257fc9189c1efebfd2cfcc3931c8c1e
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\f2\f284dbbd54b2912cfd5de11345635c42
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\f2\f284dbbd54b2912cfd5de11345635c42
-    projectPath: Library\Artifacts\f2\f284dbbd54b2912cfd5de11345635c42
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 5
-  - path: Library\Artifacts\f3\f32aa3ae163ff4a38301ae7cad03227b
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\f3\f32aa3ae163ff4a38301ae7cad03227b
-    projectPath: Library\Artifacts\f3\f32aa3ae163ff4a38301ae7cad03227b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\Artifacts\fb\fbcfed68410e20da0678d4477f9b2401
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\Artifacts\fb\fbcfed68410e20da0678d4477f9b2401
-    projectPath: Library\Artifacts\fb\fbcfed68410e20da0678d4477f9b2401
     originalPath: 
     indexStatus: 0
     workTreeStatus: 5
@@ -967,12 +154,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Library\EditorOnlyScriptingSettings.json
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\EditorOnlyScriptingSettings.json
-    projectPath: Library\EditorOnlyScriptingSettings.json
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -982,12 +163,6 @@ MonoBehaviour:
   - path: Library\gfu\cache\gitlocks.yaml
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\gfu\cache\gitlocks.yaml
     projectPath: Library\gfu\cache\gitlocks.yaml
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\gfu\cache\gitlog.yaml
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\gfu\cache\gitlog.yaml
-    projectPath: Library\gfu\cache\gitlog.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1009,12 +184,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\InspectorExpandedItems.asset
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\InspectorExpandedItems.asset
-    projectPath: Library\InspectorExpandedItems.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: Library\SceneVisibilityState.asset
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -1033,447 +202,21 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.PlasticSCM.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Services.Core.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.Timeline.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.Timeline.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.Timeline.pdb
-    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\UnityEditor.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\UnityEditor.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.dll
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\UnityEngine.UI.dll
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptAssemblies\UnityEngine.UI.pdb
-    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ScriptMapper
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ScriptMapper
-    projectPath: Library\ScriptMapper
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\ShaderCache\0\03f9d74ee88523505eea7705fc3682cb.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\0\03f9d74ee88523505eea7705fc3682cb.bin
-    projectPath: Library\ShaderCache\0\03f9d74ee88523505eea7705fc3682cb.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\04bcff325bf894e08f47e801cc370e3e.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\0\04bcff325bf894e08f47e801cc370e3e.bin
-    projectPath: Library\ShaderCache\0\04bcff325bf894e08f47e801cc370e3e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\0\0b07bfa81a94f53a72e576172dd11da4.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\0\0b07bfa81a94f53a72e576172dd11da4.bin
-    projectPath: Library\ShaderCache\0\0b07bfa81a94f53a72e576172dd11da4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\1\13856553381658ecb4a9de61fff8001f.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\1\13856553381658ecb4a9de61fff8001f.bin
-    projectPath: Library\ShaderCache\1\13856553381658ecb4a9de61fff8001f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\230766cbe2c9f42ce4517d365192bf37.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\2\230766cbe2c9f42ce4517d365192bf37.bin
-    projectPath: Library\ShaderCache\2\230766cbe2c9f42ce4517d365192bf37.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\2836b1f72fcbc947a87bdc9637c250d4.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\2\2836b1f72fcbc947a87bdc9637c250d4.bin
-    projectPath: Library\ShaderCache\2\2836b1f72fcbc947a87bdc9637c250d4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\29558fb67fd7a4c4a322026f32b65b7f.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\2\29558fb67fd7a4c4a322026f32b65b7f.bin
-    projectPath: Library\ShaderCache\2\29558fb67fd7a4c4a322026f32b65b7f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\2c84defa2ee8b2a7f6b61da454e57796.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\2\2c84defa2ee8b2a7f6b61da454e57796.bin
-    projectPath: Library\ShaderCache\2\2c84defa2ee8b2a7f6b61da454e57796.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\2\2c8e84051866c860e2bcd213d607d771.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\2\2c8e84051866c860e2bcd213d607d771.bin
-    projectPath: Library\ShaderCache\2\2c8e84051866c860e2bcd213d607d771.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\34e7a3a3b4e333d5659bbaf5a59cb7f2.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\3\34e7a3a3b4e333d5659bbaf5a59cb7f2.bin
-    projectPath: Library\ShaderCache\3\34e7a3a3b4e333d5659bbaf5a59cb7f2.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\3\3ec39aa53518fb2c8ae3d98dc93b4cc1.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\3\3ec39aa53518fb2c8ae3d98dc93b4cc1.bin
-    projectPath: Library\ShaderCache\3\3ec39aa53518fb2c8ae3d98dc93b4cc1.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\41ae8ff0679071f2fb7575419bebec3a.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\4\41ae8ff0679071f2fb7575419bebec3a.bin
-    projectPath: Library\ShaderCache\4\41ae8ff0679071f2fb7575419bebec3a.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\44f8f79ff5da690c8907b56f25da6b26.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\4\44f8f79ff5da690c8907b56f25da6b26.bin
-    projectPath: Library\ShaderCache\4\44f8f79ff5da690c8907b56f25da6b26.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\49bd060cf330f2a155835460657fc29b.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\4\49bd060cf330f2a155835460657fc29b.bin
-    projectPath: Library\ShaderCache\4\49bd060cf330f2a155835460657fc29b.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4a82d8d6300cde1da16964d0a87d4f88.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\4\4a82d8d6300cde1da16964d0a87d4f88.bin
-    projectPath: Library\ShaderCache\4\4a82d8d6300cde1da16964d0a87d4f88.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4b07ac25757109aa33f6273f5869c535.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\4\4b07ac25757109aa33f6273f5869c535.bin
-    projectPath: Library\ShaderCache\4\4b07ac25757109aa33f6273f5869c535.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\4\4faf27105622fc9d643bc0fb7d14a643.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\4\4faf27105622fc9d643bc0fb7d14a643.bin
-    projectPath: Library\ShaderCache\4\4faf27105622fc9d643bc0fb7d14a643.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5500c645278eba7a66b02d611d0851e4.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\5\5500c645278eba7a66b02d611d0851e4.bin
-    projectPath: Library\ShaderCache\5\5500c645278eba7a66b02d611d0851e4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\566ccbffd3ff00fc96b4e99e03ed8b00.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\5\566ccbffd3ff00fc96b4e99e03ed8b00.bin
-    projectPath: Library\ShaderCache\5\566ccbffd3ff00fc96b4e99e03ed8b00.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\5\5e9e57c4de9f62f5f9e08a194246ba1e.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\5\5e9e57c4de9f62f5f9e08a194246ba1e.bin
-    projectPath: Library\ShaderCache\5\5e9e57c4de9f62f5f9e08a194246ba1e.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\6\6993c1ba7593489d0ee399634fa43aed.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\6\6993c1ba7593489d0ee399634fa43aed.bin
-    projectPath: Library\ShaderCache\6\6993c1ba7593489d0ee399634fa43aed.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\7\74bba3e107193e37ae1dcf58d313a4a7.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\7\74bba3e107193e37ae1dcf58d313a4a7.bin
-    projectPath: Library\ShaderCache\7\74bba3e107193e37ae1dcf58d313a4a7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\8\8eac693497f8ed9c63b2fac843dc0ae4.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\8\8eac693497f8ed9c63b2fac843dc0ae4.bin
-    projectPath: Library\ShaderCache\8\8eac693497f8ed9c63b2fac843dc0ae4.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9409dc2e826c6541e35c4fdf853cc870.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\9\9409dc2e826c6541e35c4fdf853cc870.bin
-    projectPath: Library\ShaderCache\9\9409dc2e826c6541e35c4fdf853cc870.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\95391a8ad22be4beda0f047901bf85e7.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\9\95391a8ad22be4beda0f047901bf85e7.bin
-    projectPath: Library\ShaderCache\9\95391a8ad22be4beda0f047901bf85e7.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\959e54a7beabcb5b06cdd46383c577e8.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\9\959e54a7beabcb5b06cdd46383c577e8.bin
-    projectPath: Library\ShaderCache\9\959e54a7beabcb5b06cdd46383c577e8.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\9\9f7e5cba2e4acdf4abd9b99554855734.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\9\9f7e5cba2e4acdf4abd9b99554855734.bin
-    projectPath: Library\ShaderCache\9\9f7e5cba2e4acdf4abd9b99554855734.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\ac9b1695b36e6c632ac165b71c11ba25.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\a\ac9b1695b36e6c632ac165b71c11ba25.bin
-    projectPath: Library\ShaderCache\a\ac9b1695b36e6c632ac165b71c11ba25.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\ad19c1e6fee30551052655b8ff072083.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\a\ad19c1e6fee30551052655b8ff072083.bin
-    projectPath: Library\ShaderCache\a\ad19c1e6fee30551052655b8ff072083.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\a\ad884164d4a213b4acfe7bf2a5a59146.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\a\ad884164d4a213b4acfe7bf2a5a59146.bin
-    projectPath: Library\ShaderCache\a\ad884164d4a213b4acfe7bf2a5a59146.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b2cefdfc7df142292f4bc20e6d9f0c41.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\b\b2cefdfc7df142292f4bc20e6d9f0c41.bin
-    projectPath: Library\ShaderCache\b\b2cefdfc7df142292f4bc20e6d9f0c41.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b411b43cf52fe3fe60f476b787ad94cf.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\b\b411b43cf52fe3fe60f476b787ad94cf.bin
-    projectPath: Library\ShaderCache\b\b411b43cf52fe3fe60f476b787ad94cf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\b\b5d38ed689b970f40b59d757660c836d.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\b\b5d38ed689b970f40b59d757660c836d.bin
-    projectPath: Library\ShaderCache\b\b5d38ed689b970f40b59d757660c836d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\d07f6934170ad8b20bc990420b7c84cf.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\d\d07f6934170ad8b20bc990420b7c84cf.bin
-    projectPath: Library\ShaderCache\d\d07f6934170ad8b20bc990420b7c84cf.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\d217c797d76897fc1792b00d0bfc7c60.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\d\d217c797d76897fc1792b00d0bfc7c60.bin
-    projectPath: Library\ShaderCache\d\d217c797d76897fc1792b00d0bfc7c60.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\d\d23be494101210ce1912ab5e3da07e0f.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\d\d23be494101210ce1912ab5e3da07e0f.bin
-    projectPath: Library\ShaderCache\d\d23be494101210ce1912ab5e3da07e0f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\eb46583308d7d52e83d9cb8dddb42f0f.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\e\eb46583308d7d52e83d9cb8dddb42f0f.bin
-    projectPath: Library\ShaderCache\e\eb46583308d7d52e83d9cb8dddb42f0f.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\e\ebd823b9b7b37356675364656c4f7593.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\e\ebd823b9b7b37356675364656c4f7593.bin
-    projectPath: Library\ShaderCache\e\ebd823b9b7b37356675364656c4f7593.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    workTreeStatus: 5
   - path: Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: Library\ShaderCache\f\f080055739e613e994193b270ff3938d.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\f\f080055739e613e994193b270ff3938d.bin
-    projectPath: Library\ShaderCache\f\f080055739e613e994193b270ff3938d.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Library\ShaderCache\f\f587ba555e7b1a25dcfee2a385a59451.bin
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\ShaderCache\f\f587ba555e7b1a25dcfee2a385a59451.bin
-    projectPath: Library\ShaderCache\f\f587ba555e7b1a25dcfee2a385a59451.bin
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: Library\SourceAssetDB
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\SourceAssetDB
     projectPath: Library\SourceAssetDB
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
-    projectPath: Library\StateCache\MainStageHierarchy\4d\4d2a36d9faf65734f0bbefb3ee623532.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -1488,7 +231,7 @@ MonoBehaviour:
     projectPath: Logs\AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\AssetImportWorker0-prev.log
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Logs\AssetImportWorker0-prev.log
     projectPath: Logs\AssetImportWorker0-prev.log
@@ -1500,7 +243,7 @@ MonoBehaviour:
     projectPath: Logs\shadercompiler-AssetImportWorker0.log
     originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe0.log
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Logs\shadercompiler-UnityShaderCompiler.exe0.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
@@ -1511,74 +254,44 @@ MonoBehaviour:
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Logs\shadercompiler-UnityShaderCompiler.exe1.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Logs\shadercompiler-UnityShaderCompiler.exe2.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Logs\shadercompiler-UnityShaderCompiler.exe3.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Logs\shadercompiler-UnityShaderCompiler.exe4.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Logs\shadercompiler-UnityShaderCompiler.exe5.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Logs\shadercompiler-UnityShaderCompiler.exe6.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Logs\shadercompiler-UnityShaderCompiler.exe7.log
     projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: obj\Debug\Assembly-CSharp.Player.csproj.AssemblyReference.cache
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\obj\Debug\Assembly-CSharp.Player.csproj.AssemblyReference.cache
-    projectPath: obj\Debug\Assembly-CSharp.Player.csproj.AssemblyReference.cache
-    originalPath: 
     indexStatus: 0
-    workTreeStatus: 3
-  - path: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: Temp\__Backupscenes\0.backup
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\__Backupscenes\0.backup
-    projectPath: Temp\__Backupscenes\0.backup
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    workTreeStatus: 5
   - path: Temp\Assembly-CSharp.dll.hash
     fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\Assembly-CSharp.dll.hash
     projectPath: Temp\Assembly-CSharp.dll.hash
@@ -1687,123 +400,105 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-03d96de2de135e0449271ff1509da32d
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-03d96de2de135e0449271ff1509da32d
-    projectPath: Temp\UnityTempFile-03d96de2de135e0449271ff1509da32d
+  - path: Temp\UnityTempFile-07b697a70fb28cf4da823bba37fc3fb6
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-07b697a70fb28cf4da823bba37fc3fb6
+    projectPath: Temp\UnityTempFile-07b697a70fb28cf4da823bba37fc3fb6
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-1a037d6484ca7234ebc8867094454a09
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-1a037d6484ca7234ebc8867094454a09
-    projectPath: Temp\UnityTempFile-1a037d6484ca7234ebc8867094454a09
+  - path: Temp\UnityTempFile-0a2a8bd0540508a44a66c9eb9f3707a0
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-0a2a8bd0540508a44a66c9eb9f3707a0
+    projectPath: Temp\UnityTempFile-0a2a8bd0540508a44a66c9eb9f3707a0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-2919100acf9aeaf4b82a7ec008ad3258
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-2919100acf9aeaf4b82a7ec008ad3258
-    projectPath: Temp\UnityTempFile-2919100acf9aeaf4b82a7ec008ad3258
+  - path: Temp\UnityTempFile-1f3f4578d28d54f4a9b93461fcebfba0
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-1f3f4578d28d54f4a9b93461fcebfba0
+    projectPath: Temp\UnityTempFile-1f3f4578d28d54f4a9b93461fcebfba0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-324ff6f87b49be7418471a62ab8999e0
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-324ff6f87b49be7418471a62ab8999e0
-    projectPath: Temp\UnityTempFile-324ff6f87b49be7418471a62ab8999e0
+  - path: Temp\UnityTempFile-31f2add0ea52d464493dfb433063131f
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-31f2add0ea52d464493dfb433063131f
+    projectPath: Temp\UnityTempFile-31f2add0ea52d464493dfb433063131f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-459b0662b2b493b45b023ce75d91a2cc
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-459b0662b2b493b45b023ce75d91a2cc
-    projectPath: Temp\UnityTempFile-459b0662b2b493b45b023ce75d91a2cc
+  - path: Temp\UnityTempFile-3bb59927037b26346a4022e0b6416464
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-3bb59927037b26346a4022e0b6416464
+    projectPath: Temp\UnityTempFile-3bb59927037b26346a4022e0b6416464
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-55789472940a63e4fb59424caea4107c
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-55789472940a63e4fb59424caea4107c
-    projectPath: Temp\UnityTempFile-55789472940a63e4fb59424caea4107c
+  - path: Temp\UnityTempFile-3f4e5238f46430f4c95f67fec7ca6bf0
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-3f4e5238f46430f4c95f67fec7ca6bf0
+    projectPath: Temp\UnityTempFile-3f4e5238f46430f4c95f67fec7ca6bf0
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-568476e8619e2fe40b5e35534bcf5899
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-568476e8619e2fe40b5e35534bcf5899
-    projectPath: Temp\UnityTempFile-568476e8619e2fe40b5e35534bcf5899
+  - path: Temp\UnityTempFile-42730d0bce7ea414f9d5170fd425b830
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-42730d0bce7ea414f9d5170fd425b830
+    projectPath: Temp\UnityTempFile-42730d0bce7ea414f9d5170fd425b830
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-57f44fb4bb90ce240adcdd51b8f4afce
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-57f44fb4bb90ce240adcdd51b8f4afce
-    projectPath: Temp\UnityTempFile-57f44fb4bb90ce240adcdd51b8f4afce
+  - path: Temp\UnityTempFile-530fd3a203471ec40a7ddc50aebc1d2e
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-530fd3a203471ec40a7ddc50aebc1d2e
+    projectPath: Temp\UnityTempFile-530fd3a203471ec40a7ddc50aebc1d2e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-890b8512a174e8844b1547008b8daaac
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-890b8512a174e8844b1547008b8daaac
-    projectPath: Temp\UnityTempFile-890b8512a174e8844b1547008b8daaac
+  - path: Temp\UnityTempFile-a6adeffe12e920341aec3cfd2234504e
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-a6adeffe12e920341aec3cfd2234504e
+    projectPath: Temp\UnityTempFile-a6adeffe12e920341aec3cfd2234504e
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-8c533f7c2faad1644a0afccd86246875
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-8c533f7c2faad1644a0afccd86246875
-    projectPath: Temp\UnityTempFile-8c533f7c2faad1644a0afccd86246875
+  - path: Temp\UnityTempFile-ae7da8fa29b2a2047a7f6357983d418b
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-ae7da8fa29b2a2047a7f6357983d418b
+    projectPath: Temp\UnityTempFile-ae7da8fa29b2a2047a7f6357983d418b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-921c1b9789402434c888cab517522713
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-921c1b9789402434c888cab517522713
-    projectPath: Temp\UnityTempFile-921c1b9789402434c888cab517522713
+  - path: Temp\UnityTempFile-cc0604fa2fff9894bb80100afb403103
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-cc0604fa2fff9894bb80100afb403103
+    projectPath: Temp\UnityTempFile-cc0604fa2fff9894bb80100afb403103
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-96c9bb31647ea6f4089ed0b325e554a8
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-96c9bb31647ea6f4089ed0b325e554a8
-    projectPath: Temp\UnityTempFile-96c9bb31647ea6f4089ed0b325e554a8
+  - path: Temp\UnityTempFile-e0051f7ea70717e4191e2581d033aae4
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-e0051f7ea70717e4191e2581d033aae4
+    projectPath: Temp\UnityTempFile-e0051f7ea70717e4191e2581d033aae4
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-9a2965a7865cc1f4a9076bfe23831cbc
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-9a2965a7865cc1f4a9076bfe23831cbc
-    projectPath: Temp\UnityTempFile-9a2965a7865cc1f4a9076bfe23831cbc
+  - path: Temp\UnityTempFile-e8422d1724c6f48479286e272b0a0f9d
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-e8422d1724c6f48479286e272b0a0f9d
+    projectPath: Temp\UnityTempFile-e8422d1724c6f48479286e272b0a0f9d
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-ab2b26ebf5693f44fb878026fe01cde1
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-ab2b26ebf5693f44fb878026fe01cde1
-    projectPath: Temp\UnityTempFile-ab2b26ebf5693f44fb878026fe01cde1
+  - path: Temp\UnityTempFile-f6d07f9ee3934894baf532bfb6bf26ca
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-f6d07f9ee3934894baf532bfb6bf26ca
+    projectPath: Temp\UnityTempFile-f6d07f9ee3934894baf532bfb6bf26ca
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-b5c95bba74ed17f4d961f30c05c8f086
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-b5c95bba74ed17f4d961f30c05c8f086
-    projectPath: Temp\UnityTempFile-b5c95bba74ed17f4d961f30c05c8f086
+  - path: Temp\UnityTempFile-f8928c69fe6e68d49ad215eecc6d2ad7
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-f8928c69fe6e68d49ad215eecc6d2ad7
+    projectPath: Temp\UnityTempFile-f8928c69fe6e68d49ad215eecc6d2ad7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-c1c048caece2aea4d8f34cf0bd9da610
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-c1c048caece2aea4d8f34cf0bd9da610
-    projectPath: Temp\UnityTempFile-c1c048caece2aea4d8f34cf0bd9da610
+  - path: Temp\UnityTempFile-f89a9a57d387d434f82dc2bb937ba475
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-f89a9a57d387d434f82dc2bb937ba475
+    projectPath: Temp\UnityTempFile-f89a9a57d387d434f82dc2bb937ba475
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: Temp\UnityTempFile-cea5a766d64ad854e83df4c49065cc11
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-cea5a766d64ad854e83df4c49065cc11
-    projectPath: Temp\UnityTempFile-cea5a766d64ad854e83df4c49065cc11
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-ef1ec16a907277a4da0918d49cd0adb7
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-ef1ec16a907277a4da0918d49cd0adb7
-    projectPath: Temp\UnityTempFile-ef1ec16a907277a4da0918d49cd0adb7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fae941ca022be1747b664e803c1ed47b
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-fae941ca022be1747b664e803c1ed47b
-    projectPath: Temp\UnityTempFile-fae941ca022be1747b664e803c1ed47b
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: Temp\UnityTempFile-fc526f2a9c012e44b93be4def56bc597
-    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-fc526f2a9c012e44b93be4def56bc597
-    projectPath: Temp\UnityTempFile-fc526f2a9c012e44b93be4def56bc597
+  - path: Temp\UnityTempFile-fd25f3870def46d4bad0139e7f214338
+    fullPath: C:\Users\Erick\Desktop\Motores de Jogos\Pinball\Complete\Pinball\Temp\UnityTempFile-fd25f3870def46d4bad0139e7f214338
+    projectPath: Temp\UnityTempFile-fd25f3870def46d4bad0139e7f214338
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1

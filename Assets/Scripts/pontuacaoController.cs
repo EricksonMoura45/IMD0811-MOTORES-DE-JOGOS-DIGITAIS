@@ -11,7 +11,7 @@ public class pontuacaoController : MonoBehaviour
 
     void Start()
     {
-        
+        //configurar comporatamente do score e highscore
     }
 
     void Update()
