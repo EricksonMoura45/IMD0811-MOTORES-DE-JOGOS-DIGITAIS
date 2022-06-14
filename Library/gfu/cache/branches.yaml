@@ -13,10 +13,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2022-06-08T22:45:32.561-03:00
-  initializedAtString: 2022-06-08T13:12:27.374-03:00
-  localBranches: []
-  remoteBranches: []
+  lastUpdatedAtString: 2022-06-14T02:27:53.024-03:00
+  initializedAtString: 2022-06-14T01:25:38.866-03:00
+  localBranches:
+  - name: remos
+    tracking: origin/remos
+  remoteBranches:
+  - name: origin/remos
+    tracking: '[None]'
   remotes:
   - name: origin
     url: https://github.com/EricksonMoura45/IMD0811-MOTORES-DE-JOGOS-DIGITAIS.git
@@ -26,15 +30,27 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - remos
+    values:
+    - name: remos
+      remote:
+        name: origin
+        url: https://github.com/EricksonMoura45/IMD0811-MOTORES-DE-JOGOS-DIGITAIS.git
+      trackingBranch: remos
   remoteConfigBranches:
     keys:
     - origin
     subKeys:
-    - Values: []
+    - Values:
+      - remos
     subKeyValues:
-    - Values: []
+    - Values:
+      - name: remos
+        remote:
+          name: origin
+          url: https://github.com/EricksonMoura45/IMD0811-MOTORES-DE-JOGOS-DIGITAIS.git
+        trackingBranch: 
   configRemotes:
     keys:
     - origin

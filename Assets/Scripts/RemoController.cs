@@ -22,6 +22,7 @@ public class RemoController : MonoBehaviour
     void Update()
     {
 
+
         JointSpring spring = new JointSpring();
         spring.spring = forca;
         spring.damper = angRemo;
